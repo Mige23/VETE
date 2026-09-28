@@ -2,10 +2,10 @@
   "name": "petsgates",
   "version": "1.0.0",
   "private": true,
-  "description": "Sitio web de Petsgates con asistente veterinario Petsy.",
+  "description": "Sitio web de Petsgates.",
   "scripts": {
-    "start": "node tools/preview-server.js",
-    "dev": "node tools/preview-server.js"
+    "start": "node preview-server.js",
+    "dev": "node preview-server.js"
   },
   "engines": {
     "node": ">=18"

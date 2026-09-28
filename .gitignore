@@ -1,4 +1,4 @@
-api/.env
-api/*.log
+.env
+*.log
 .data/
 
