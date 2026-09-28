@@ -1,0 +1,8 @@
+Colocá aquí las fotografías originales cuando estén listas.
+
+Sugerencias:
+- hero-principal: retrato cercano de un paciente con profesional veterinario.
+- vinculo-familia: animal y familia en un momento cotidiano.
+- testimonios: retratos reales de cada familia y su animal.
+
+Las proporciones y tamaños recomendados aparecen dentro de cada placeholder de la web.
